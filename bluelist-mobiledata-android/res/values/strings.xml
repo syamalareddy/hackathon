@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Reminder</string>
+    <string name="item_to_buy">thing to remind!!!!</string>
+    <string name="title_activity_edit">Change reminder</string>
+    <string name="done">Ok!!!</string>
+    <string name="action_edit">Change</string>
+    <string name="action_delete">Remove</string>
+    <string name="title_text">All Reminders</string>
+</resources>
